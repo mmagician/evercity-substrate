@@ -20,7 +20,7 @@ Evercity pallet implements actions for three types of entities: accounts and rol
 
 ### 4.1 Accounts and Roles
 
-Each Evercity account can accommodate one or more roles: MASTER, CUSTODIAN, ISSUER, INVESTOR, AUDITOR, MANAGER. The account only has access to the functions available to its role. The approximate functions of each role in the project are as follows:
+Each Evercity account can accommodate one or more roles: MASTER, CUSTODIAN, EMITENT, INVESTOR, AUDITOR, MANAGER. The account only has access to the functions available to its role. The approximate functions of each role in the project are as follows:
 
  - MASTER: the administrative role that can create new accounts and assign roles to them. This role also regulates the launch of bonds to the market, making the final decision on whether the bond meets the requirements.
  - CUSTODIAN: the role which can mint and burn the main platform token. This role is assigned to the public account of the partner bank, which exchanges USD --> EVERUSD and EVERUSD --> USD.
