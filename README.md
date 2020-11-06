@@ -1,6 +1,6 @@
 # 1. Evercity Substrate Node
 
-This repositary contains source code of blockchain node, which is a main part of Evercity's Smart Sustainable Bond project.
+This repository contains source code of blockchain node, which is a main part of Evercity's Smart Sustainable Bond project.
 
 # 2. Introduction
 
